@@ -4,7 +4,7 @@ This README would normally document whatever steps are necessary to get your app
 
 ### What is this repository for? ###
 
-* R code to retrieve 2 random popular videos from US region using YouTube API
+* R code to retrieve 2 random popular videos from US region using YouTube API and performs sentiment anlysis
 * Version 1.0
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
