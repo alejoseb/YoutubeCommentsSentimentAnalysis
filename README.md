@@ -4,8 +4,9 @@ This README would normally document whatever steps are necessary to get your app
 
 ### What is this repository for? ###
 
-* R code to retrieve 2 random popular videos from US region using YouTube API and performs sentiment anlysis
+* R code to retrieve 2 random popular videos from US region using YouTube API and performs sentiment analysis
 * Version 1.0
+* NOTE: This code is not working anymore. Youtube API to retrieve comments was deprecated.
 * [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
 
 ### How do I get set up? ###
